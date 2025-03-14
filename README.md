@@ -1,8 +1,15 @@
 # DigiNext
 
 **DigiNext**, dijital ürünlerin kolayca satılabildiği modern bir web platformudur. **Next.js** kullanılarak geliştirilen bu proje, kullanıcıların dijital ürünleri görüntülemesi ve satın alması için basit ve hızlı bir çözüm sunmaktadır.
+
+
+## Ekran Görüntüleri
+Aşağıda DigiNext'in bazı ekran görüntüleri yer almaktadır:
+### Ürünler Arayüzü
 ![image](https://github.com/user-attachments/assets/40e2433a-40e2-4aa4-abef-9632ece77e1e)
+### Ürün Detay & Ödeme Arayüzü
 ![image](https://github.com/user-attachments/assets/af459942-ebf2-4d89-bcc4-1e873425856b)
+### Yönetici Paneli Arayüzü
 ![image](https://github.com/user-attachments/assets/0a0d6ec9-8278-4272-84c4-f9acae76e402)
 
 
